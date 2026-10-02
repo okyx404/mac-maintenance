@@ -80,8 +80,8 @@ sudo rm -rf /private/var/folders/* 2>/dev/null || true
 
 # --- 5. ANCIENT UNIX MAINTENANCE ---
 # Run Apple's maintenance scripts from 1998
-echo "➜ Executing macOS periodic cron tasks..."
-sudo periodic daily weekly monthly
+# echo "➜ Executing macOS periodic cron tasks..."
+# sudo periodic daily weekly monthly
 
 
 # --- RESULTS ---
